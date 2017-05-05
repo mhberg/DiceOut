@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiceOut</string>
+    <string name="action_settings">Reset score</string>
+    <string name="scoreStart">Score: 0</string>
+    <string name="playMessage">Let\'s play!</string>
+    <string name="roll">Roll</string>
+</resources>
